@@ -1,0 +1,50 @@
+.create-event {
+    padding: 10px;
+    border:1px solid;
+    margin:10px;
+}
+.create-event h2 {
+    color:red;
+}
+.form-group {
+height:40px;
+margin:10px;
+width: 300px;
+}
+.form-group input {
+    width: 100%;
+   
+}
+.form-group button {
+    height:40px;
+    padding:10px;
+}
+.event-list {
+    color:blueviolet;
+    border:1px solid grey;
+    padding:10px;
+    margin:5px 0px;
+    border-radius: 5px;
+}
+p button {
+    margin-right:5px;
+    padding:10px;
+    background-color: blueviolet;
+    color: white;
+    outline: none;
+    border:1px solid;
+    border-radius: 5px;
+}
+p button:hover {
+   background-color: yellowgreen;
+}
+#submitButtom {
+    background-color: yellowgreen;
+    margin-right:5px;
+    padding:10px;
+   
+    color: white;
+    outline: none;
+    border:1px solid;
+    border-radius: 5px;
+}
